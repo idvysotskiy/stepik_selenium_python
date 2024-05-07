@@ -4,7 +4,7 @@ import time
 import pytest
 
 
-def test_stap():
+def test_reg():
     try:
         link_pass = "http://suninjuly.github.io/registration2.html"
         link_fail = "http://suninjuly.github.io/registration2.html"
