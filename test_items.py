@@ -2,7 +2,7 @@ import pytest
 from selenium.webdriver.common.by import By
 
 
-class TestProductPage:
+class TestMultilanguage:
     def test_add_to_basket_btn(self, browser):
         link = " http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/"
         browser.get(link)
