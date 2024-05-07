@@ -6,7 +6,7 @@ import pytest
 
 def test_reg():
     try:
-        link_pass = "http://suninjuly.github.io/registration2.html"
+        link_pass = "http://suninjuly.github.io/registration1.html"
         link_fail = "http://suninjuly.github.io/registration2.html"
 
         browser = webdriver.Chrome()
